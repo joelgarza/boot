@@ -4,3 +4,4 @@
 |----------------|--------------|--------------------------------------|
 | Olmo Maldonado | @ibolmo      | http://github.com/ibolmo             |
 | Joel Garza (TX)| @joelgarzatx | http://github.com/joelgarzatx/resume |
+| Joel Garza     | @joelgarza   | http://github.com/joelgarza/resume   |
